@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ver_Info" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">그리드 디펜더 v1.3.3.0</Value>
+    </Setting>
+    <Setting Name="Last_Updated" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Last Updated: 2014/01/03</Value>
+    </Setting>
+    <Setting Name="StrAlert" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Alert</Value>
+    </Setting>
+    <Setting Name="StrNormal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

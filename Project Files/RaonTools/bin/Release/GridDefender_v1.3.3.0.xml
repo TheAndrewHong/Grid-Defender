@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GridDefender_v1.3.3.0
+</name>
+</assembly>
+<members>
+<member name="P:GridDefender.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.DB">
+	<summary>
+  Looks up a localized string similar to :: 라온툴즈 v1.3.2.0 (DB v1.5)
+:: Last Updated 2013-08-02
+
+@echo off
+mode con cols=40 lines=11
+TITLE 라온툴즈 v1.3.2.0
+pushd %~dp0
+:: color 1F
+
+"%APPDATA%\RapidGet\RPGUnist.exe"
+
+"%Documents and Settings%All Users\Application Data\iniweblink\uninstall.exe"
+"%Documents and Settings%All Users\Application Data\gmktshortcut\uninstall.exe"
+"%Documents and Settings%All Users\Application Data\Microsoft\popmulticare\unins000.exe" 
+"%Documents and Settings%All Users\Application Data\WindowsPurchaseHelper\unins [rest of string was truncated]";.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.GridDefender_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.Info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.list">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.RaonTools_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.Shutdown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.Version">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GridDefender.My.Resources.Resources.Website">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:GridDefender.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
