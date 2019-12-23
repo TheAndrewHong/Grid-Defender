@@ -1,7 +1,7 @@
 # Grid Defender
 Project source for Grid Defender a.k.a. RaonTools
 
-![Grid Defender](/images/logo.png)
+![Grid Defender](https://github.com/TheAndrewHong/Grid-Defender/blob/master/Images/logo.png)
 
 ## Author's Note
 As of September 2013, this program has reached the end of its life cycle.
@@ -9,7 +9,7 @@ As of September 2013, this program has reached the end of its life cycle.
 
 ## 그리드 디펜더 = 악성코드 + 멀웨어 + 악성 광고 + 툴바 제거 프로그램
 
-![Grid Defender](/images/grid_defender.png)
+![Grid Defender](https://github.com/TheAndrewHong/Grid-Defender/blob/master/Images/grid_defender.png)
 
 
 ## Intro
